@@ -1,0 +1,11 @@
+BranchID,BranchName,Region,Manager,OpeningDate
+B001,Downtown Vancouver,Vancouver,Sarah Chen,2020-03-15
+B002,Richmond Centre,Richmond,James Park,2019-06-01
+B003,Burnaby Heights,Burnaby,Maria Rodriguez,2021-01-10
+B004,Surrey Central,Surrey,David Thompson,2018-11-20
+B005,Coquitlam Station,Tri-Cities,Lisa Wong,2022-04-05
+B006,North Vancouver,North Shore,Michael Brown,2020-08-12
+B007,New Westminster,New Westminster,Jennifer Lee,2019-09-30
+B008,Langley Mall,Fraser Valley,Robert Singh,2021-07-15
+B009,White Rock,Fraser Valley,Amanda Taylor,2022-02-01
+B010,Port Moody,Tri-Cities,Chris Johnson,2021-11-08

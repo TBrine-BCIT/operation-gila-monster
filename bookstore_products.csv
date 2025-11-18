@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice
+P001,The Midnight Library,Fiction,Contemporary,18.99
+P002,Atomic Habits,Non-Fiction,Self-Help,24.99
+P003,Where the Crawdads Sing,Fiction,Mystery,19.99
+P004,Educated,Non-Fiction,Memoir,21.99
+P005,Becoming,Non-Fiction,Biography,26.99
+P006,The Silent Patient,Fiction,Thriller,16.99
+P007,Circe,fiction,Fantasy,22.99
+P008,Normal People,Fiction,Romance,17.99
+P009,The Vanishing Half,Fiction,Historical,20.99
+P010,The Four Winds,Fiction,Historical,21.99
+P011,Project Hail Mary,Fiction,Sci-Fi,23.99
+P012,Malibu Rising,Fiction,Contemporary,19.99
+P013,The Last Thing He Told Me,Fiction,Mystery,18.99
+P014,The Lincoln Highway,Fiction,Historical,24.99
+P015,Cloud Cuckoo Land,Fiction,Historical,25.99
+P016,The Paris Apartment,Fiction,Mystery,20.99
+P017,Book Lovers,Fiction,Romance,19.99
+P018,Harry Potter Box Set,Fiction,Fantasy,89.99
+P019,The Hobbit,Fiction,Fantasy,14.99
+P020,Pride and Prejudice,Fiction,Classic,12.99
+P021,To Kill a Mockingbird,Fiction,Classic,13.99
+P022,The Great Gatsby,Fiction,Classic,11.99
+P023,1984,Fiction,Classic,14.99
+P024,The Catcher in the Rye,Fiction,Classic,13.99
+P025,Lord of the Rings Set,Fiction,Fantasy,79.99
+P026,Bookstore Tote Bag,Accessories,Store Merchandise,15.99
+P027,Reading Journal,Accessories,Store Merchandise,12.99
+P028,Bookmark Set,Accessories,Store Merchandise,8.99
+P029,Book Light,Accessories,Store Merchandise,18.99
+P030,Gift Card,Gift Cards,Gift Cards,25.0

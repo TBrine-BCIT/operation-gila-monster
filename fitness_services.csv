@@ -1,0 +1,26 @@
+ServiceID,ServiceName,Category,Subcategory,UnitPrice
+S001,Yoga - Vinyasa,Classes,Yoga,22.0
+S002,Yoga - Hot,Classes,Yoga,28.0
+S003,Yoga - Yin,Classes,Yoga,20.0
+S004,Spin Class,Classes,Cardio,25.0
+S005,HIIT Training,Classes,Cardio,30.0
+S006,Strength Training,Classes,Strength,25.0
+S007,Pilates Reformer,Classes,Pilates,35.0
+S008,Pilates Mat,Classes,Pilates,22.0
+S009,Barre,Classes,Mind-Body,24.0
+S010,Dance Cardio,Classes,Cardio,26.0
+S011,Boxing,classes,Combat,28.0
+S012,Kickboxing,Classes,Combat,28.0
+S013,CrossFit,Classes,Strength,35.0
+S014,Personal Training,Personal Services,One-on-One,75.0
+S015,Group PT,Personal Services,Group,45.0
+S016,Nutrition Coaching,Personal Services,Nutrition,80.0
+S017,Massage Therapy,Wellness,Recovery,90.0
+S018,Monthly Membership,Memberships,Recurring,129.0
+S019,Annual Membership,Memberships,Recurring,1299.0
+S020,Day Pass,Memberships,Drop-In,20.0
+S021,Protein Shake,Retail,Nutrition,8.5
+S022,Energy Bar,Retail,Nutrition,4.5
+S023,Water Bottle,Retail,Merchandise,24.99
+S024,Gym Towel,Retail,Merchandise,6.0
+S025,Apparel,Retail,Merchandise,45.0
