@@ -1,12 +1,12 @@
 BranchID,BranchName,Region,Manager,OpeningDate
-T001,Granville Cinemas,Vancouver,Emma Stone,2018-03-01
-T002,Richmond IMAX,Richmond,Ryan Gosling,2019-11-15
-T003,Burnaby Metropolis,Burnaby,Margot Robbie,2018-06-20
-T004,Surrey Central,Surrey,Tom Holland,2020-01-10
-T005,Coquitlam Cineplex,Tri-Cities,Zendaya Coleman,2019-09-05
-T006,North Vancouver,North Shore,Timothée Chalamet,2020-07-01
-T007,New West Station,New Westminster,Florence Pugh,2021-03-15
-T008,Langley Gateway,Fraser Valley,Oscar Isaac,2019-12-01
-T009,Abbotsford Mall,Fraser Valley,Anya Taylor-Joy,2021-08-20
-T010,Chilliwack Plaza,Fraser Valley,Pedro Pascal,2020-04-10
-T011,Port Coquitlam,Tri-Cities,Austin Butler,2022-02-14
+T001,Granville Cinemas,Vancouver,Emma Stone,2015-10-01
+T002,Richmond IMAX,Richmond,Ryan Gosling,2015-10-15
+T003,Burnaby Metropolis,Burnaby,Margot Robbie,2016-01-20
+T004,Surrey Central,Surrey,Tom Holland,2016-04-10
+T005,Coquitlam Cineplex,Tri-Cities,Zendaya Coleman,2016-08-05
+T006,North Vancouver,North Shore,Timothée Chalamet,2017-02-01
+T007,New West Station,New Westminster,Florence Pugh,2017-07-15
+T008,Langley Gateway,Fraser Valley,Oscar Isaac,2018-03-01
+T009,Abbotsford Mall,Fraser Valley,Anya Taylor-Joy,2018-11-20
+T010,Chilliwack Plaza,Fraser Valley,Pedro Pascal,2019-05-10
+T011,Port Coquitlam,Tri-Cities,Austin Butler,2020-09-14
